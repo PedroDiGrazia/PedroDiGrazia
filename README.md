@@ -1,6 +1,6 @@
 ###  Olá eu sou Pedro Di Grazia👋
 
-👉 Sou um estudante de programação brasileiro, tenho 18 anos e adoro as tecnologias deste mundo e tudo o que á cerca por isso curso Engenharia da Computação. Aqui esta um pouquinho do que eu venho fazendo no mundo da programação nos últimos tempos! 
+👉 Sou um estudante de programação brasileiro, tenho 19 anos e adoro as tecnologias deste mundo e tudo o que á cerca por isso curso Engenharia da Computação. Aqui esta um pouquinho do que eu venho fazendo no mundo da programação nos últimos tempos! 
  
 
 
