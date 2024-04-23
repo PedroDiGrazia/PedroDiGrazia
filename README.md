@@ -1,9 +1,5 @@
 ###  Olá eu sou Pedro Di Grazia👋
 
-👉 Sou um estudante de programação brasileiro, tenho 19 anos e adoro as tecnologias deste mundo e tudo o que á cerca por isso curso Engenharia da Computação. Aqui esta um pouquinho do que eu venho fazendo no mundo da programação nos últimos tempos! 
- 
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
