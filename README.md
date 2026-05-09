@@ -1,6 +1,6 @@
 
   ## Sea otters all the way! 🦦
-  ### Lowkey trying to build something cool 'round here! Totally winging it tho.
+  ### Lowkey trying to build something cool around here! Totally winging it tho.
   
   ### Links
   <div> 
