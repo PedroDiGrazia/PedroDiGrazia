@@ -1,5 +1,5 @@
 
-  ## Pedro F. Di Grazia
+  # Pedro Di Grazia
   ### Lowkey trying to build something cool around here! Totally winging it tho.
   
   ### Links
